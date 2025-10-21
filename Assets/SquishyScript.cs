@@ -16,7 +16,7 @@ public class SquishyMove : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) == true)        {
-            SquishyRigidbody.linearVelocity =  Vector2.up * 10;
+            SquishyRigidbody.linearVelocity =  Vector2.up * SquishyMoveSpeed;
         }
         
     }
