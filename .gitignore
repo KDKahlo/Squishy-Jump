@@ -1,0 +1,84 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+Assets/AssetStoreTools/
+Assets/StreamingAssets/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio / MonoDevelop
+.vs/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln.dotsettings
+*.pidb
+*.booproj
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Build artifacts
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+MemoryCaptures/
+sysinfo.txt
+
+# Logs, crashes
+*.log
+crashlytics-build.properties
+*.stacktrace
+
+# Asset meta and caches (keep source in Assets/)
+# (Library is already ignored above)
+*/.DS_Store
+
+# Package manager
+Packages/manifest.json.lock
+
+# Temporary files
+*.tmp
+*.temp
+
+# Files created by Unity Cloud Build
+/UnityConnectSettings.asset
+
+/Assets/PackageCache/
+/Assets/AssetStoreOriginals/
+
+/ExportedObj/
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.ExternalTool
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+/Logs/
+/UserSettings/
+/UnityPackageManager/
+/mono_crash.*
